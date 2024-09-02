@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1688084480 source:c:\users\user\downloads\testing\testing\src\concert.cpp
+	"Concert.h"
+	<iostream>
+
+1688084970 c:\users\user\downloads\testing\testing\include\concert.h
+
+1688084416 source:c:\users\user\downloads\testing\testing\src\ticket.cpp
+	"Ticket.h"
+	<iostream>
+
+1688084986 c:\users\user\downloads\testing\testing\include\ticket.h
+
+1689228524 source:c:\users\user\downloads\testing.new\testing\src\ticket.cpp
+	"Ticket.h"
+
+1689228269 c:\users\user\downloads\testing.new\testing\include\ticket.h
+
+1689296071 source:c:\users\user\downloads\testing.new\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
+1689228269 c:\users\user\downloads\testing.new\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1689228269 c:\users\user\downloads\testing.new\testing\include\concert.h
+	<string>
+
+1689228269 c:\users\user\downloads\testing.new\testing\include\session.h
+	<iostream>
+
+1689228270 source:c:\users\user\downloads\testing.new\testing\src\concert.cpp
+	"Concert.h"
+
+1689228270 source:c:\users\user\downloads\testing.new\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1689228270 source:c:\users\user\downloads\testing.new\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1689127819 source:c:\users\user\downloads\testing.zip.5\testing\src\concert.cpp
+	"Concert.h"
+
+1689127819 c:\users\user\downloads\testing.zip.5\testing\include\concert.h
+	<string>
+
+1689134221 source:c:\users\user\downloads\testing.zip.5\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1689134143 c:\users\user\downloads\testing.zip.5\testing\include\session.h
+	<iostream>
+
+1689129105 c:\users\user\downloads\testing.zip.5\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1689127819 c:\users\user\downloads\testing.zip.5\testing\include\ticket.h
+
+1689133909 source:c:\users\user\downloads\testing.zip.5\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1689127820 source:c:\users\user\downloads\testing.zip.5\testing\src\ticket.cpp
+	"Ticket.h"
+
+1689131617 source:c:\users\user\downloads\testing.zip.5\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
+1689127819 source:c:\users\user\downloads\testing.new\testing\testing\src\concert.cpp
+	"Concert.h"
+
+1689127819 c:\users\user\downloads\testing.new\testing\testing\include\concert.h
+	<string>
+
+1689133909 source:c:\users\user\downloads\testing.new\testing\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1689129105 c:\users\user\downloads\testing.new\testing\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1689127819 c:\users\user\downloads\testing.new\testing\testing\include\ticket.h
+
+1689134221 source:c:\users\user\downloads\testing.new\testing\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1689134143 c:\users\user\downloads\testing.new\testing\testing\include\session.h
+	<iostream>
+
+1689127820 source:c:\users\user\downloads\testing.new\testing\testing\src\ticket.cpp
+	"Ticket.h"
+
+1689143634 source:c:\users\user\downloads\testing.new\testing\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
+1689209564 source:c:\inti\may 23\csc206\asignment\testing\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
+1689129106 c:\inti\may 23\csc206\asignment\testing\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1689127820 c:\inti\may 23\csc206\asignment\testing\testing\include\ticket.h
+
+1689127820 c:\inti\may 23\csc206\asignment\testing\testing\include\concert.h
+	<string>
+
+1689134144 c:\inti\may 23\csc206\asignment\testing\testing\include\session.h
+	<iostream>
+
+1689127820 source:c:\inti\may 23\csc206\asignment\testing\testing\src\concert.cpp
+	"Concert.h"
+
+1689133910 source:c:\inti\may 23\csc206\asignment\testing\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1689134222 source:c:\inti\may 23\csc206\asignment\testing\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1689127822 source:c:\inti\may 23\csc206\asignment\testing\testing\src\ticket.cpp
+	"Ticket.h"
+
+1689228269 source:c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
+1689228269 c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1689228269 c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\include\ticket.h
+
+1689228269 c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\include\concert.h
+	<string>
+
+1689228269 c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\include\session.h
+	<iostream>
+
+1689228270 source:c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\src\concert.cpp
+	"Concert.h"
+
+1689228270 source:c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1689228270 source:c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1689228524 source:c:\users\user\downloads\testing.new\testing.zip.7\testing\testing\src\ticket.cpp
+	"Ticket.h"
+
+1690959542 source:c:\users\user\downloads\final edition_isabel & destin zip\testing\src\concert.cpp
+	"Concert.h"
+
+1690955000 c:\users\user\downloads\final edition_isabel & destin zip\testing\include\concert.h
+	<string>
+
+1690955000 source:c:\users\user\downloads\final edition_isabel & destin zip\testing\src\hall.cpp
+	"Hall.h"
+	"Ticket.h"
+	<iostream>
+	<stdlib.h>
+
+1690955000 c:\users\user\downloads\final edition_isabel & destin zip\testing\include\hall.h
+	<vector>
+	<string>
+	"Ticket.h"
+
+1690955000 c:\users\user\downloads\final edition_isabel & destin zip\testing\include\ticket.h
+
+1690955000 source:c:\users\user\downloads\final edition_isabel & destin zip\testing\src\session.cpp
+	"Session.h"
+	"Hall.h"
+
+1690955000 c:\users\user\downloads\final edition_isabel & destin zip\testing\include\session.h
+	<iostream>
+
+1690955000 source:c:\users\user\downloads\final edition_isabel & destin zip\testing\src\ticket.cpp
+	"Ticket.h"
+
+1690959776 source:c:\users\user\downloads\final edition_isabel & destin zip\testing\main.cpp
+	<iostream>
+	"Hall.h"
+	"Concert.h"
+	"Session.h"
+
